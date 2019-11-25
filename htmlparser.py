@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import sys
 from bs4 import BeautifulSoup
-link = "index.html"
+link = "html_page.html"
 
 for x in range(0,10):
 
